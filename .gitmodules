@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bootstrap"]
+	path = bootstrap
+	url = https://gitlab.com/scottkosty/bootstrap
+	shallow = true
+	registered = true
+[submodule "monreg"]
+	path = monreg
+	url = https://gitlab.com/scottkosty/monreg
+	shallow = true
+	registered = true
